@@ -130,7 +130,6 @@ const perguntarAI = async (question, game, apiKey) =>{
 }
 
 
-//AIzaSyBMgeKTx3n6Od0ku-qax8FvZ3D1cOoAa5c
 
 const sendForm = async (evt)=>{
     evt.preventDefault()
